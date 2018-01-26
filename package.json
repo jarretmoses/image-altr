@@ -1,0 +1,24 @@
+{
+  "name": "image-altr",
+  "version": "1.0.0",
+  "description": "Dynamically add alt attributes to image tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarretmoses/image-altr.git"
+  },
+  "keywords": [
+    "Machine Learning",
+    "Image",
+    "Alt Attribute"
+  ],
+  "author": "Jarret Moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarretmoses/image-altr/issues"
+  },
+  "homepage": "https://github.com/jarretmoses/image-altr#readme"
+}
